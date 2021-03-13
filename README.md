@@ -1,6 +1,6 @@
 # Endterm-project-OOP-Java
 SE-2010 <br>
-ENDTERM PROJECT
+ENDTERM PROJECT <br>
 Olzhas Ibragimov and Baydaulet Kanatbek
 We have created Tic Tac Toe game:
 4 classes
