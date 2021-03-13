@@ -1,5 +1,5 @@
 # Endterm-project-OOP-Java
-SE-2010
+SE-2010 <br>
 ENDTERM PROJECT
 Olzhas Ibragimov and Baydaulet Kanatbek
 We have created Tic Tac Toe game:
